@@ -3,16 +3,6 @@ This is the official code for our CVPR 2025 publication: Learning to Normalize o
 
 This code will be released soon.
 
-If you find this project helpful, please consider citing us as follows:
-
-```bib
-@inproceedings{wang2025gbwbn,
-title={Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry},
-author={Rui Wang and Shaocheng Jin and Ziheng Chen and Xiaoqing Luo and Xiao-Jun Wu},
-booktitle={Conference on Computer Vision and Pattern Recognition 2025},
-year={2025}
-}
-```
 
 In case you have any problem, do not hesitate to contact me 2932723775@qq.com.
 
