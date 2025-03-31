@@ -14,7 +14,11 @@ The implementation is based on the official code of
 - *Riemannian Residual Neural Networks* [[Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c868aa7437dc9b29e674cd2e25689021-Abstract-Conference.html)] [[code](https://github.com/CUAI/Riemannian-Residual-Neural-Networks)].
 
 ### Dataset
-We further release our preprocessed HDM05 and MAMEM-SSVEP-II datasets in the folder './GBWBN_RResNet/data' and './GBWBN_SPDNet/data'. 
+We further release our preprocessed MAMEM-SSVEP-II and HDM05 datasets. 
+
+MAMEM-SSVEP-II dataset is in the folder './GBWBN_SPDNet/data'. 
+
+Please download the HDM05  data and put it in the folder './GBWBN_RResNet/data'
 
 ### Running experiments
 The code of experiments on SPDNet in the folder './GBWBN_SPDNet', while the experiments on RResNet in the folder './GBWBN_RResNet'.
