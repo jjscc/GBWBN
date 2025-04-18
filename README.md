@@ -1,3 +1,7 @@
+[<img src="https://img.shields.io/badge/arXiv-2504.00660-b31b1b"></img>](https://arxiv.org/abs/2504.00660)
+
+# Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry
+
 # README
 This is the official code for our CVPR 2025 publication: Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry.
 
