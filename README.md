@@ -22,7 +22,7 @@ We further release our preprocessed MAMEM-SSVEP-II and HDM05 datasets.
 
 MAMEM-SSVEP-II dataset is in the folder './GBWBN_SPDNet/experiments/data'. 
 
-Please download the [HDM05](https://drive.google.com/file/d/1RxN2PWOkYJw-NzyM0vaxdLkina2q-_Rj/view?usp=drive_link) data and put it in the folder './GBWBN_RResNet/brooks_spd/experiments/data'
+Please download the [HDM05](https://drive.google.com/file/d/1T6ay9KKzhgM1hg05w8Buefok58MMevYh/view?usp=drive_link) data and put it in the folder './GBWBN_RResNet/brooks_spd/experiments/data'
 
 ### Running experiments
 The code of experiments on SPDNet in the folder './GBWBN_SPDNet', while the experiments on RResNet in the folder './GBWBN_RResNet'.
