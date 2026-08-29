@@ -33,21 +33,15 @@ python mamem.py
 ```
 ## Reference
 ```bash
-@inproceedings{RResNet,
-  title={Riemannian residual neural networks},
-  author={Katsman, Isay and Chen, Eric and Holalkere, Sidhanth and Asch, Anna and Lou, Aaron and Lim, Ser Nam and De Sa, Christopher M},
-  booktitle={NeurIPS},
-  year={2024},
+@article{pan2022matt,
+  title={MAtt: A manifold attention network for EEG decoding},
+  author={Pan, Yue-Ting and Chou, Jing-Lun and Wei, Chun-Shu},
+  journal={NeurIPS},
+  pages={31116--31129},
+  year={2022}
 }
 ```
 
-```bash
-@inproceedings{spdnetbn,
-  title={Riemannian batch normalization for {SPD} neural networks},
-  author={Brooks, Daniel and Schwander, Olivier and Barbaresco, Fr{\'e}d{\'e}ric and Schneider, Jean-Yves and Cord, Matthieu},
-  booktitle={NeurIPS},
-  year={2019}
-}
-```
+
 
 
