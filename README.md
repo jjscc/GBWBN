@@ -5,7 +5,6 @@
 # README
 This is the official code for our CVPR 2025 publication: Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry.
 
-This code will be released soon.
 
 
 In case you have any problem, do not hesitate to contact me 2932723775@qq.com.
