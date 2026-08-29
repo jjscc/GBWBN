@@ -5,8 +5,6 @@
 # README
 This is the official code for our CVPR 2025 publication: Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry.
 
-
-
 In case you have any problem, do not hesitate to contact me 2932723775@qq.com.
 
 ## Experiments
@@ -31,14 +29,23 @@ To train and test the experiments on the HDM05 and MAMEM-SSVEP-II datasets, run 
 python Hdm05.py
 python mamem.py
 ```
+
 ## Reference
 ```bash
-@article{pan2022matt,
-  title={MAtt: A manifold attention network for EEG decoding},
-  author={Pan, Yue-Ting and Chou, Jing-Lun and Wei, Chun-Shu},
-  journal={NeurIPS},
-  pages={31116--31129},
-  year={2022}
+@inproceedings{RResNet,
+  title={Riemannian residual neural networks},
+  author={Katsman, Isay and Chen, Eric and Holalkere, Sidhanth and Asch, Anna and Lou, Aaron and Lim, Ser Nam and De Sa, Christopher M},
+  booktitle={NeurIPS},
+  year={2024},
+}
+```
+
+```bash
+@inproceedings{spdnetbn,
+  title={Riemannian batch normalization for {SPD} neural networks},
+  author={Brooks, Daniel and Schwander, Olivier and Barbaresco, Fr{\'e}d{\'e}ric and Schneider, Jean-Yves and Cord, Matthieu},
+  booktitle={NeurIPS},
+  year={2019}
 }
 ```
 
